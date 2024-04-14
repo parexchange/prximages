@@ -1,0 +1,36 @@
+[
+    {
+     "title": "Social",
+     "links": [
+       {
+         "text": "Twitter",
+         "url": "https://twitter.com/parexnetwork"
+       },
+       {
+         "text": "Telegram",
+         "url": "https://t.me/ParexPRX"
+       },
+       {
+         "text": "Youtube",
+         "url": "https://www.youtube.com/@parexmarket1762"
+       }
+     ]
+   },
+   {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Github",
+        "url": "https://github.com/parexchange"
+      },
+      {
+        "text": "Docs",
+        "url": "https://docs.parex.network/"
+      },
+      {
+        "text": "Faucet",
+        "url": "https://pro.parex.market/faucet"
+      }
+    ]
+  }
+ ]
