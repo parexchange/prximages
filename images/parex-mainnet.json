@@ -2,13 +2,13 @@
 		"title": "Parex Mainnet",
 		"url": "https://scan.parex.network/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/parexchange/prximages/main/images/PRX3.png",
+		"icon": "https://raw.githubusercontent.com/parexchange/prximages/main/images/racoon.svg",
 		"isActive": true
 	},
 	{
 		"title": "Parex Testnet",
 		"url": "https://testnet.parex.network/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/parexchange/prximages/main/images/PRX3.png"
+		"icon": "https://raw.githubusercontent.com/parexchange/prximages/main/images/racoon.svg"
 	}
 ]
