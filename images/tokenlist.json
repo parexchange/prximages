@@ -45,7 +45,9 @@
         "address": "0x212eE4B965fd9Ea38BB8C9eA995e5a8A66461a65",
         "name": "Wrapped BTC",
         "symbol": "WBTC",
-        "decimals": 18
+        "decimals": 18,      
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/refs/heads/master/assets/ctoken_wbtc.svg"
+ 
       }      
     ],
     "version": {
