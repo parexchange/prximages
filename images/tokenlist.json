@@ -8,47 +8,21 @@
     "timestamp": "2024-11-30T00:00:00.000+00:00",
     "tokens": [
       {
-        "chainId": 322200,
-        "address": "0x82c70C0098667874Ecd9CE531F2ceD7de82f75B4",
+        "chainId": 322202,
+        "address": "0x34f04Ed4550DC66798517C454e2ee7DF6B88f45d",
         "name": "WPRX",
         "symbol": "WPRX",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/parexchange/prximages/main/images/racoon.svg"
-      },
+        "logoURI": "https://raw.githubusercontent.com/parexchange/prximages/main/images/PRX3.png"
+      },            
       {
-        "chainId": 322200,
-        "address": "0xFB715672a5856757F804a85F5127dC4263360f02",
-        "name": "USDC Coin",
-        "symbol": "USDC",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
-      },
-      
-      {
-        "chainId": 322200,
-        "address": "0x09B7789F2064cffC15821350672d2c0608594693",
+        "chainId": 322202,
+        "address": "0x951Ff4C73AE4397318Ba0c7358b108A0901D40Ab",
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
-      },
-      {
-        "chainId": 322200,
-        "address": "0x44B898E77dBF557357af68EF89468647fA7E924A",
-        "name": "Compound",
-        "symbol": "COMP",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
-      },
-      {
-        "chainId": 322200,
-        "address": "0x212eE4B965fd9Ea38BB8C9eA995e5a8A66461a65",
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "decimals": 18,      
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/refs/heads/master/assets/ctoken_wbtc.svg"
- 
-      }      
+        "logoURI": "https://raw.githubusercontent.com/parexchange/prximages/main/images/USDT.png"
+      }
     ],
     "version": {
       "major": 2,
