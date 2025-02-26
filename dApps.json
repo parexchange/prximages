@@ -10,7 +10,7 @@
     "shortDescription": "Raccoonswap allows users anywhere in the world to trade PRX without...",
     "site": "https://raccoonswap.finance/",
     "description": "Raccoonswap allows users anywhere in the world to trade PRX without an intermediary. Raccoonswap is the largest decentralized exchange (or DEX) operating on the Parex blockchain.",
-    "external": true,
+    "external": false,
     "url": "https://raccoonswap.finance/",
     "internalWallet": false
   },
@@ -25,7 +25,7 @@
     "shortDescription": "PRX and SPRX swap can be done quickly by using Parex Swap dApp...",
     "site": "https://swap.parex.network/",
     "description": "PRX and SPRX swap can be done quickly by using Parex Swap dApp...",
-    "external": true,
+    "external": false,
     "url": "https://swap.parex.network/",
     "internalWallet": false
   },
