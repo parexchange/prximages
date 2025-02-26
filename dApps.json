@@ -13,5 +13,20 @@
     "external": false,
     "url": "https://raccoonswap.finance/",
     "internalWallet": false
+  },
+   {
+    "author": "Parex Network",
+    "id": "raccooninfo",
+    "title": "RaccoonInfo",
+    "logo": "https://raccoonswap.finance/raccoon.png",
+    "categories": [
+      "Swaps"
+    ],
+    "shortDescription": "A Uniswap info dashboard dApp that provides real-time analytics on liquidity pools...",
+    "site": "https://info.raccoonswap.finance/",
+    "description": "A Uniswap info dashboard dApp that provides real-time analytics on liquidity pools, token prices, trading volume, and other key metrics. Users can track market trends and monitor their favorite tokens effortlessly.",
+    "external": false,
+    "url": "https://info.raccoonswap.finance/",
+    "internalWallet": false
   }
 ]
