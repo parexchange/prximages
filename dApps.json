@@ -1,0 +1,62 @@
+[
+  {
+    "author": "Parex Network",
+    "id": "raccoonswap",
+    "title": "Raccoonswap",
+    "logo": "https://raccoonswap.finance/raccoon.png",
+    "categories": [
+      "Swaps"
+    ],
+    "shortDescription": "Raccoonswap allows users anywhere in the world to trade PRX without...",
+    "site": "https://raccoonswap.finance/",
+    "description": "Raccoonswap allows users anywhere in the world to trade PRX without an intermediary. Raccoonswap is the largest decentralized exchange (or DEX) operating on the Parex blockchain.",
+    "external": true,
+    "url": "https://raccoonswap.finance/",
+    "internalWallet": false
+  },
+  {
+    "author": "Parex Network",
+    "id": "swap",
+    "title": "PRX <-> SPRX",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/Swapfavicon.png",
+    "categories": [
+      "Swaps"
+    ],
+    "shortDescription": "PRX and SPRX swap can be done quickly by using Parex Swap dApp...",
+    "site": "https://swap.parex.network/",
+    "description": "PRX and SPRX swap can be done quickly by using Parex Swap dApp...",
+    "external": true,
+    "url": "https://swap.parex.network/",
+    "internalWallet": false
+  },
+  {
+    "author": "Parex Network",
+    "id": "bridge",
+    "title": "Bridge",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/Swapfavicon.png",
+    "categories": [
+      "Bridges"
+    ],
+    "shortDescription": "A cross-chain bridge dApp enabling seamless transfers of PRX and USDT between Parex and BSC Networks...",
+    "site": "https://stake.parex.network/",
+    "description": "A cross-chain bridge dApp enabling seamless transfers of PRX and USDT between Parex and BSC Networks. Users can securely swap assets across chains with minimal latency, ensuring fast and efficient transactions",
+    "external": true,
+    "url": "https://bridge.parex.network/",
+    "internalWallet": false
+  },
+  {
+    "author": "Parex Network",
+    "id": "stake",
+    "title": "Stake dApp",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/Swapfavicon.png",
+    "categories": [
+      "Stakes"
+    ],
+    "shortDescription": "A staking dApp where users can stake SPRX to participate in mining and earn rewards...",
+    "site": "https://stake.parex.network",
+    "description": "A staking dApp where users can stake SPRX  and LP Token to participate in mining and earn rewards. The platform ensures secure and efficient staking with transparent reward distribution.",
+    "external": true,
+    "url": "https://stake.parex.network",
+    "internalWallet": false
+  }
+]
