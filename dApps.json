@@ -58,6 +58,51 @@
     "external": false,
     "url": "https://bridge.parex.network/",
     "internalWallet": false
+  },
+    {
+    "author": "Parex Network",
+    "id": "stakedapp",
+    "title": "Stake dApp",
+    "logo": "https://raccoonswap.finance/raccoon.png",
+    "categories": [
+      "Stakes"
+    ],
+    "shortDescription": "Stake your SPRX tokens and earn rewards in the same token....",
+    "site": "https://stake.parex.network/",
+    "description": "Stake your SPRX tokens and earn rewards in the same token. This secure and efficient staking platform enables users to maximize their holdings with passive income while supporting the ecosystem.",
+    "external": false,
+    "url": "https://stake.parex.network/",
+    "internalWallet": false
+  },
+   {
+    "author": "Parex Network",
+    "id": "lplockdapp",
+    "title": "LpLock dApp",
+    "logo": "https://raccoonswap.finance/raccoon.png",
+    "categories": [
+      "Stakes"
+    ],
+    "shortDescription": "Lock your LP tokens and earn SPRX rewards!...",
+    "site": "https://lplock.raccoonswap.finance/",
+    "description": "Lock your LP tokens and earn SPRX rewards! This DApp provides a secure way to stake liquidity provider tokens while earning passive rewards in SPRX, enhancing both liquidity and incentives.",
+    "external": false,
+    "url": "https://lplock.raccoonswap.finance/",
+    "internalWallet": false
+  },
+  {
+    "author": "Parex Network",
+    "id": "validatordapp",
+    "title": "Validator dApp",
+    "logo": "https://raccoonswap.finance/raccoon.png",
+    "categories": [
+      "Validator"
+    ],
+    "shortDescription": "Stake 77,000 TSX to become a network validator. Secure the blockchain, validate transactions...",
+    "site": "https://validator.parex.network/",
+    "description": "Stake 77,000 TSX to become a network validator. Secure the blockchain, validate transactions, and earn rewards while contributing to the network’s decentralization and security.",
+    "external": false,
+    "url": "https://validator.parex.network/",
+    "internalWallet": false
   }
 ]
 
