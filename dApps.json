@@ -28,5 +28,38 @@
     "external": false,
     "url": "https://info.raccoonswap.finance/",
     "internalWallet": false
+  },
+     {
+    "author": "Parex Network",
+    "id": "swapdapp",
+    "title": "Swap dApp",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/ParexNetwork.png",
+    "categories": [
+      "Swaps"
+    ],
+    "shortDescription": "Seamlessly swap PRX <-> SPRX with ease. This decentralized application (DApp) ensures secure...",
+    "site": "https://swap.parex.network/",
+    "description": "Seamlessly swap PRX <-> SPRX with ease. This decentralized application (DApp) ensures secure, efficient, and instant conversions, allowing users to wrap and unwrap SPRX tokens for enhanced interoperability within the ecosystem.",
+    "external": false,
+    "url": "https://swap.parex.network/",
+    "internalWallet": false
+  },
+    {
+    "author": "Parex Network",
+    "id": "bridgedapp",
+    "title": "Bridge dApp",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/ParexNetwork.png",
+    "categories": [
+      "Bridges"
+    ],
+    "shortDescription": "Effortlessly transfer PEP20 tokens to BEP20 and vice versa...",
+    "site": "https://bridge.parex.network/",
+    "description": "Effortlessly transfer PEP20 tokens to BEP20 and vice versa. This bridge DApp enables secure and seamless cross-chain transfers, ensuring fast and reliable interoperability between networks.",
+    "external": false,
+    "url": "https://bridge.parex.network/",
+    "internalWallet": false
   }
 ]
+
+
+
