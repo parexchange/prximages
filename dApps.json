@@ -33,7 +33,7 @@
     "author": "Parex Network",
     "id": "swapdapp",
     "title": "Swap dApp",
-    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/ParexNetwork.png",
+    "logo": "https://raccoonswap.finance/raccoon.png",
     "categories": [
       "Swaps"
     ],
@@ -48,7 +48,7 @@
     "author": "Parex Network",
     "id": "bridgedapp",
     "title": "Bridge dApp",
-    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/ParexNetwork.png",
+    "logo": "https://raccoonswap.finance/raccoon.png",
     "categories": [
       "Bridges"
     ],
