@@ -9,7 +9,7 @@
     "tokens": [
       {
         "chainId": 322202,
-        "address": "0x2B6d73C364721E28314f2c19eD868449C14379a1",
+        "address": "0x0B4231f1b076b78B04ab46c455b9129aF70541D5",
         "name": "WPRX",
         "symbol": "WPRX",
         "decimals": 18,
@@ -17,7 +17,7 @@
       },            
       {
         "chainId": 322202,
-        "address": "0x348cf536eC2d1579D29c3c16B47145D132813f54",
+        "address": "0x64C22C9a13143dda17c0477d7959D084Bc566334",
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 18,
