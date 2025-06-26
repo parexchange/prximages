@@ -33,7 +33,7 @@
     "author": "Parex Network",
     "id": "swapdapp",
     "title": "Swap dApp",
-    "logo": "https://raccoonswap.finance/raccoon.png",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/Swap_dApp.png",
     "categories": [
       "Swaps"
     ],
@@ -48,7 +48,7 @@
     "author": "Parex Network",
     "id": "bridgedapp",
     "title": "Bridge dApp",
-    "logo": "https://raccoonswap.finance/raccoon.png",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/Bridge_dApp.png",
     "categories": [
       "Bridges"
     ],
@@ -63,7 +63,7 @@
     "author": "Parex Network",
     "id": "stakedapp",
     "title": "Stake dApp",
-    "logo": "https://raccoonswap.finance/raccoon.png",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/Stake_dApp.png",
     "categories": [
       "Stakes"
     ],
@@ -78,7 +78,7 @@
     "author": "Parex Network",
     "id": "lplockdapp",
     "title": "LpLock dApp",
-    "logo": "https://raccoonswap.finance/raccoon.png",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/LpLock_dApp.png",
     "categories": [
       "Stakes"
     ],
@@ -93,7 +93,7 @@
     "author": "Parex Network",
     "id": "validatordapp",
     "title": "Validator dApp",
-    "logo": "https://raccoonswap.finance/raccoon.png",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/Validator_dApp.png",
     "categories": [
       "Validator"
     ],
