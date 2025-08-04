@@ -16,9 +16,24 @@
   },
    {
     "author": "Parex Network",
+    "id": "raczilla",
+    "title": "Raczilla",
+    "logo": "https://raccoonswap.finance/raccoon.png",
+    "categories": [
+      "Swaps"
+    ],
+    "shortDescription": "The ultimate launchpad for the next generation of meme tokens...",
+    "site": "https://raczilla.fun/",
+    "description": "The most advanced and secure platform for launching the next generation of meme tokens on Parex Network.",
+    "external": false,
+    "url": "https://raczilla.fun/",
+    "internalWallet": false
+   },
+   {
+    "author": "Parex Network",
     "id": "raccooninfo",
     "title": "RaccoonInfo",
-    "logo": "https://raccoonswap.finance/raccoon.png",
+    "logo": "https://raw.githubusercontent.com/parexchange/prximages/main/images/info_dApp.png",
     "categories": [
       "Swaps"
     ],
